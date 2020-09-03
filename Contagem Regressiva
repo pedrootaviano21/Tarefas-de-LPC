@@ -1,0 +1,11 @@
+print('Pedro Otaviano Albuquerque Neto')
+
+def contagemRegressiva(n=30):
+
+  if n == 0:
+    print('Decolar!')
+  else:
+    print(n)
+    contagemRegressiva(n-1)
+
+contagemRegressiva(n=30)
