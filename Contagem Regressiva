@@ -1,11 +1,84 @@
-print('Pedro Otaviano Albuquerque Neto')
+#print('Pedro Otaviano Albuquerque Neto')
 
-def contagemRegressiva(n=30):
+#def contagemRegressiva(n=30):
 
-  if n == 0:
-    print('Decolar!')
-  else:
-    print(n)
-    contagemRegressiva(n-1)
+#  if n == 0:
+#    print('Decolar!')
+#  else:
+#    print(n)
+#    contagemRegressiva(n-1)
+#
+#contagemRegressiva(n=30)
+#
 
-contagemRegressiva(n=30)
+#Pedro Otaviano 1A 
+
+#1
+#print ('Olá mundo')
+
+#2
+#print ('Digite um numero')
+#numero = int (input(''))
+#print ('O numero informado foi:', numero)
+
+#3
+#print ('Digite dois numeros')
+#n1 = int (input ('Primeiro numero '))
+#n2 = int (input ('Segundo numero '))
+#soma = (n1 + n2)
+#print ('A soma desses números é:', soma)
+
+#4
+#print ('Digite as notas para obter a media')
+#n1 = int (input ('Primeira nota '))
+#n2 = int (input ('Segunda nota '))
+#n3 = int (input ('Terceira nota '))
+#n4 = int (input ('Quarta nota '))
+#media = ((n1+n2+n3+n4)/4)
+#print = ('A média é', media) 
+
+#5
+#metros = float ('input'('Metros: '))
+#centimetros= (metros * 100)
+#print ('São', centimetros, 'centimetros')
+
+#6
+#a = float (input ('Qual é o raio do circulo? '))
+#area = (a**2*3.14)
+#print ('{}'.format(area)) 
+
+#7
+#x = float (input('Infome quanto mede o lado do quadrado: '))
+#y = x*x
+#z = y*2
+#print ('A area do quadrado é ' ,x, 'e o dobro da area é ', z)
+
+#8
+#x = int(input('Quanto você ganha por hora? '))
+#y = int(input('Quantas horas você trabalha por mês? '))
+#print ('Você ganha R$',(x*y)
+
+#9
+#n = int(input('Digite um numero: '))
+#if n > 0:
+# print('positivo')
+#elif n==0:
+#  print('seu numero é neutro')
+#else:
+#  print('negativo')
+
+#10
+#x = str(input('Se você se é homem digite M, se é mulher digite F:'). upper())
+#if x == 'M':
+#  print('Você é homem')
+#else x == 'F':
+# print('Você é mulher')
+#elif 
+# print('letra invalida')
+
+#11
+#n = str(input("digite uma letra: ").lower())
+#if n == 'a' or n == 'e' or n =='i' or n == 'o' or n == 'u':
+#    print("essa letra é uma vogal")
+#else:
+  #  print("essa letra é uma consoante ")
